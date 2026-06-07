@@ -3,32 +3,35 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Nehal Gaherwar
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+nehalgaherwar
 
 **Team Name:**  
-<!-- Write your team name -->
+vibe coder
 
 **College/University:**  
-<!-- Write your college/university name -->
+Ratan Tata Maharashtra State Skill University
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+Health-Care
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+it need in real world because of the increasing health promblem 
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+HTML
+CSS
+JAVASCRIPT
+
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+(https://github.com/nehalgaherwar/Health-Care)
 
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
